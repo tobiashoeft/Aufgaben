@@ -1,0 +1,6 @@
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\bin\Debug\Aufgabe2.exe.config
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\bin\Debug\Aufgabe2.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\bin\Debug\Aufgabe2.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\obj\Debug\Aufgabe2.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\obj\Debug\Aufgabe2.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe2\obj\Debug\Aufgabe2.csprojResolveAssemblyReference.cache

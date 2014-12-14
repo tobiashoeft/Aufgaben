@@ -1,0 +1,6 @@
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\bin\Debug\Aufgabe_Ali.exe.config
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\bin\Debug\Aufgabe_Ali.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\bin\Debug\Aufgabe_Ali.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\obj\Debug\Aufgabe_Ali.csprojResolveAssemblyReference.cache
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\obj\Debug\Aufgabe_Ali.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe_Ali\obj\Debug\Aufgabe_Ali.pdb

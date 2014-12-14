@@ -1,0 +1,9 @@
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\bin\Debug\Aufgabe3.exe.config
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\bin\Debug\Aufgabe3.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\bin\Debug\Aufgabe3.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.Form1.resources
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.Properties.Resources.resources
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.csproj.GenerateResource.Cache
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe3\obj\Debug\Aufgabe3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\bin\Debug\Aufgabe4.exe.config
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\bin\Debug\Aufgabe4.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\bin\Debug\Aufgabe4.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\obj\Debug\Aufgabe4.exe
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\obj\Debug\Aufgabe4.pdb
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\obj\Debug\Aufgabe4.Labyrinth.resources
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\obj\Debug\Aufgabe4.csproj.GenerateResource.Cache
+I:\Programming\Projekt\Aufgabe_Ali\Aufgabe4\obj\Debug\Aufgabe4.csprojResolveAssemblyReference.cache
